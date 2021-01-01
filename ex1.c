@@ -18,7 +18,7 @@ int main()
 	int phoneNumber;
 	printf("\"%%%%%% hello \\/\\/orld %%%%%% \"%%s\"\n");
 	
-	/*printf("Enter 2 numbers\n");
+	printf("Enter 2 numbers\n");
 	scanf("%d%d", &a, & b);
 	printf("The sum of %d and %d is: %d\n",a,b,a + b);
 	printf("The sub of %d and %d is: %d\n", a, b, a - b);
@@ -54,6 +54,6 @@ int main()
 	printf("Enter phone number\n");
 	scanf("%d", &phoneNumber);
 	printf("Internal number: 0-%d\n", phoneNumber);
-	printf("Universal number: +972-%d\n", phoneNumber);*/
+	printf("Universal number: +972-%d\n", phoneNumber);
 	return 1;
 }
